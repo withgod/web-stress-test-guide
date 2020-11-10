@@ -65,9 +65,9 @@ cliはお手軽ですが記録出来てあとから見直せるものが良い�
 
 - Xdebug / Tideway
 - strace/lsof
-- Newrelic RPM
+- Newrelic APM
 
-Newrelic RPMがお勧めです、特にphp環境では特別な改修も不要で導入するだけで非常に詳細な情報を取ることが出来ます。
+Newrelic APMがお勧めです、特にphp環境では特別な改修も不要で導入するだけで非常に詳細な情報を取ることが出来ます。
 
 ## 負荷試験の流れ
 
