@@ -332,7 +332,7 @@ slaveを追加での対応も可能ですが、キャッシュを適切に利用
 
 ローカルに保存できていたとしても場合によっては 10-20msec程度掛かってる事をよく見かけますが(集計関数ではなく単純なget等で時間がかかっている場合)同じ実装でもメモリ内キャッシュであれば数msecで済むことが多いです。
 
-### references
+## references
 
 - RedisサーバのCPU負荷対策パターン https://blog.yuuk.io/entry/redis-cpu-load
 - [asin:B075SV3VN3:title]
