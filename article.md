@@ -369,3 +369,12 @@ slaveを追加での対応も可能ですが、キャッシュを適切に利用
 - RedisサーバのCPU負荷対策パターン https://blog.yuuk.io/entry/redis-cpu-load
 - [asin:B075SV3VN3:title]
     - タイトルにAWSと入ってますがAWS環境以外でもお勧めです
+
+## 更新情報
+
+
+* 2020/11/09 初版公開
+* 2020/11/11
+  * Web負荷試験にタイトル変更。
+  * スケジュールに関する注意点を追記 [diff](https://github.com/withgod/web-stress-test-guide/commit/7a0b9fae1b39fc3ea5896e4976c90e5886eb2be6)
+  * シナリオに関する項目を追記 [diff](https://github.com/withgod/web-stress-test-guide/commit/cc38fabecbc3b841d06145e2534e2557c6cc1d51)
