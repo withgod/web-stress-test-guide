@@ -371,6 +371,8 @@ slaveを追加での対応も可能ですが、キャッシュを適切に利用
 - RedisサーバのCPU負荷対策パターン https://blog.yuuk.io/entry/redis-cpu-load
 - [asin:B075SV3VN3:title]
     - タイトルにAWSと入ってますがAWS環境以外でもお勧めです
+- [asin:4297119250:title]
+    - 本稿でろくに解説されていない HTTP層でのキャッシュについて詳細がまとめられています。
 
 ## 更新情報
 
