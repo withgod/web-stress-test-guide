@@ -382,3 +382,5 @@ slaveを追加での対応も可能ですが、キャッシュを適切に利用
   * Web負荷試験にタイトル変更。
   * スケジュールに関する注意点を追記 [diff](https://github.com/withgod/web-stress-test-guide/commit/7a0b9fae1b39fc3ea5896e4976c90e5886eb2be6)
   * シナリオに関する項目を追記 [diff](https://github.com/withgod/web-stress-test-guide/commit/cc38fabecbc3b841d06145e2534e2557c6cc1d51)
+* 2021/03/23
+  *  Web配信の技術へのreferenceを追記
